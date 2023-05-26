@@ -11,6 +11,4 @@
 
 - 📫 How to reach me: **indra.ulziibadrakh@gmail.com**
  
-- LinkedIn: https://www.linkedin.com/in/indra-ulziibadrakh-92778418b/ 
-
 - ⚡ Fun fact: I've played the piano for 20 years
