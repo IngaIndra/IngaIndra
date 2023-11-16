@@ -3,7 +3,7 @@
 
 - 🔭 My latest project on LMS https://kil-a-bytes.vercel.app/
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **GraphQL and Python**
 
 - 👯 I’m looking to collaborate with other developers.
 
