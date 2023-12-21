@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GraphQL and Python**
 
-- 👯 I’m looking to collaborate with other developers.
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me: **indra.ulziibadrakh@gmail.com**
